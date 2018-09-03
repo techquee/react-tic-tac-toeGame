@@ -4,7 +4,7 @@ body {
   padding-left:500px;
   background-color:#8a8a5c;
   opacity:0.4;
-  padding-top:150px;
+  padding-top:65px;
   color:white;
 }
 
@@ -25,15 +25,14 @@ ol, ul {
   background: #fff;
   border: 1px solid #999;
   float: left;
-  font-size: 24px;
+  font-size: 42px;
   font-weight: bold;
   line-height: 34px;
-  height: 34px;
+  height: 100px;
   margin-right: -1px;
   margin-top: -1px;
   padding: 0;
-  text-align: center;
-  width: 34px;
+  width: 100px;
 }
 
 .square:focus {
